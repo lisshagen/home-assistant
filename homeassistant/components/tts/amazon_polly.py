@@ -34,7 +34,8 @@ SUPPORTED_VOICES = ['Geraint', 'Gwyneth', 'Mads', 'Naja', 'Hans', 'Marlene',
                     'Chantal', 'Celine', 'Mathieu', 'Dora', 'Karl', 'Carla',
                     'Giorgio', 'Mizuki', 'Liv', 'Lotte', 'Ruben', 'Ewa',
                     'Jacek', 'Jan', 'Maja', 'Ricardo', 'Vitoria', 'Cristiano',
-                    'Ines', 'Carmen', 'Maxim', 'Tatyana', 'Astrid', 'Filiz']
+                    'Ines', 'Carmen', 'Maxim', 'Tatyana', 'Astrid', 'Filiz', 
+                    'Matthew']
 
 SUPPORTED_OUTPUT_FORMATS = ['mp3', 'ogg_vorbis', 'pcm']
 
